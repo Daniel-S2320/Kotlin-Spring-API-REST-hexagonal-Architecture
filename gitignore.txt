@@ -1,0 +1,29 @@
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Diretórios temporários
+build/
+
+# Configurações específicas da IDE
+.idea/
+.vscode/
+*.iml
+
+# Dependências geradas pelo Gradle
+.gradle/
+build/
+bin/
+
+# Arquivos de configuração
+application.properties
+application.yml
+
+# Logs
+log/
+logs/
+*.log
+
+# Cache do Spring
+spring/
